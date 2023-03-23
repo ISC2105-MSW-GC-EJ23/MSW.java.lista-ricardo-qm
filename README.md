@@ -39,6 +39,7 @@ gradle appmap test
 ```
 El Diagrama de Secuencia se puede consultar en `/app/build/appmap/junit/**.json`
 
+[Referencia Appmap.io](https://appmap.io/)
 
 Los comandos anteriores están considerados para un ambiente Linux
 
